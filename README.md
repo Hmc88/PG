@@ -1,50 +1,7 @@
 # PG本地包（Sync From Telegram）
 
 ## 同步更新在线接口
-```
-http://www.fish2018.ip-ddns.com/p/jsm.json
-http://www2.fish2018.ip-ddns.com/p/jsm.json
-http://www3.fish2018.ip-ddns.com/p/jsm.json
-```
-- 选择主页可以查看当前PG包版本  
-- 在线接口已经默认集成了tgsearch的在线服务器，无需任何tg配置
 
-备用接口
-```
-https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
-```
-备用接口2
-```
-http://www.fish2018.us.kg/p/jsm.json
-```
-
-## tgsearch服务器
-```
-http://tg.fish2018.ip-ddns.com
-http://tg2.fish2018.ip-ddns.com
-http://tg3.fish2018.ip-ddns.com
-```
-备用服务器
-```
-http://tg.fish2018.us.kg
-```
-
-## 相关接口
-[真心接口](https://github.com/fish2018/ZX) 参考这个项目
-
-## TG搜索相关教程
-
-[centos7.6部署TG搜索服务](https://github.com/fish2018/lib/blob/main/教程/centos7.6部署TG搜索服务.md)  
-
-[TG本地搜索图文教程](https://github.com/fish2018/lib/blob/main/教程/关于TG本地搜索图文教程-PG.pdf)
-
-在线获取TG session：https://tg.uu8.pro/ (@DH 分享)  
-
-需要免费代理节点，可以使用另一个项目[ClashForge](https://github.com/fish2018/ClashForge)  
-
-推荐TG频道[tgsearchers](https://t.me/s/tgsearchers)，用于tgsearch搜索。维护自己的TG资源频道，可以使用另一个项目[TGForwarder](https://github.com/fish2018/TGForwarder)  
-```
-tgsearchers,alyp_1,guaguale115,hao115,shareAliyun,Aliyun_4K_Movies,ucpanpan,ucquark,ydypzyfx,tianyi_pd2
 ```
 
 ## PG包下载地址
